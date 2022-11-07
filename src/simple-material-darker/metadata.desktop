@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Simple-Material-Darker
+Description=Simple-Material-Darker SDDM theme
+Type=sddm-theme
+Author=Ya-Johnson
+Copyright=(c) 2022, Ya-Johnson
+Screenshot=screenshot.jpg
+License=GPL
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Simple-Material-Darker
+Theme-API=1.0
+Website=https://github.com/ya-johnson/limestone-sddm-themes/src/simple-material-darker
